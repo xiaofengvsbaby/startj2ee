@@ -7,7 +7,7 @@
 </head>
 <body>
 
-	<form action="Download" method=get>
+	<form action="Downloads" method=get>
 		<input Type="submit" value="Download" name="submit">
 	</form>
 
